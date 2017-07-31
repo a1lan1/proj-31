@@ -54,11 +54,11 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => 'localhost',
+            'host'      => 'c962341z.beget.tech',
             'port'      => '',
-            'database'  => 'oct',
-            'username'  => 'root',
-            'password'  => '',
+            'database'  => 'c962341z_octob',
+            'username'  => 'c962341z_octob',
+            'password'  => 'N*%pmCN?',
             'charset'   => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
             'prefix'    => '',
